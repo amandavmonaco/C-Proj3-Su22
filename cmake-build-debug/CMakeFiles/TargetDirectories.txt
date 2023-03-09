@@ -1,0 +1,3 @@
+/Users/amandamonaco/Documents/GitHub/1342-pa03-amandavmonaco/cmake-build-debug/CMakeFiles/PA03_Anagrams.dir
+/Users/amandamonaco/Documents/GitHub/1342-pa03-amandavmonaco/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amandamonaco/Documents/GitHub/1342-pa03-amandavmonaco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
